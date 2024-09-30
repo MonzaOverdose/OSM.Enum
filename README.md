@@ -1,4 +1,4 @@
-This is and a Enumaration Linux base on Jalesc EnumLinux Linpeass. (Imcompleted!)
+This is are a Enumaration Linux based on Jalesc EnumLinux Linpeass. (Imcomplete!)
 
 
 
@@ -8,4 +8,4 @@ This is and a Enumaration Linux base on Jalesc EnumLinux Linpeass. (Imcompleted!
 
 
 
-Created by: MKOSM >:(
+Created by: MonzaOverdose >:(
